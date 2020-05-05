@@ -23,3 +23,7 @@ I developed this software ages ago (on my Windows Me, back in my highschool days
 	- When "overover" is selected, both blue and red contents will be above the background when displayed.
 	- When "overunder" is selected, the red contents will be above the background and the blue contents will be below the background when displayed.
 - The above descriptions assumes that you see the stereogram with the wall-eyed viewing. With cross-eyed viewing, the relative position from the background plane will be inverse. (see https://en.wikipedia.org/wiki/Autostereogram for the description of wall-eyed and cross-eyed viewing).
+## License
+MIT.
+
+Copyright for Some of the background images are not owned by me.
