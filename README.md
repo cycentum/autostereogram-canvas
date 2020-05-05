@@ -6,6 +6,10 @@ I developed this software ages ago (on my Windows Me, back in my highschool days
 
 This software only works on Windows.
 
+## Download
+
+Stand alone binary is available from [releases](https://github.com/cycentum/autostereogram-canvas/releases/latest).
+
 ## How to use
 - Download the binary from [releases](https://github.com/cycentum/autostereogram-canvas/releases/latest) and unzip it. No installation is required. You may encounter warnings from Windows or your web browser. If you think you can trust me, just ignore them!
 - The screen looks like this.
