@@ -3,7 +3,6 @@
 A softrware for drawing an autostereogram.
 
 I developed this software ages ago (on my Windows Me, back in my highschool days). Recently I accidentally found the old source codes and the compiled binary and ,surprizingly, it still works on Windows 10! So I decided to make them public.
-
 ## How to use
 
 - Download the binary from * and unzip it. No installation is required.
