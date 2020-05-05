@@ -1,0 +1,36 @@
+#include "define.h"
+
+BACKGROUND1 BITMAP DISCARDABLE "background1.bmp"
+BACKGROUND2 BITMAP DISCARDABLE "background2.bmp"
+BACKGROUND3 BITMAP DISCARDABLE "background3.bmp"
+BACKGROUND4 BITMAP DISCARDABLE "background4.bmp"
+
+MainFrameMenu MENU DISCARDABLE 
+{
+	MENUITEM "ï\é¶"	MI_SHOW
+	POPUP "ÉyÉì"
+    {
+        MENUITEM "â∫" MI_LOWER
+        MENUITEM "è„" MI_UPPER
+    }
+	POPUP "ëæÇ≥"
+	{
+        MENUITEM "ÇP" MI_BOLDNESS1
+        MENUITEM "ÇQ" MI_BOLDNESS2
+        MENUITEM "ÇR" MI_BOLDNESS3
+        MENUITEM "ÇS" MI_BOLDNESS4
+	}
+	MENUITEM "è¡ãé" MI_CLEAR
+	POPUP "îwåi"
+    {
+		MENUITEM "ÇP" MI_BACKGROUND1
+		MENUITEM "ÇQ" MI_BACKGROUND2
+		MENUITEM "ÇR" MI_BACKGROUND3
+		MENUITEM "ÇS" MI_BACKGROUND4
+  }
+   POPUP "overunder"
+   {
+        MENUITEM "overover"	 MI_OVEROVER
+        MENUITEM "overunder" MI_OVERUNDER
+   }
+}
