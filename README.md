@@ -27,5 +27,5 @@ MIT.
 
 Copyright for Some of the background images are not owned by me.
 
-## License
+## Misc
 The title "マジカルアイ" ("Magical Eye" in Japanese) is taken from Japanese magazine Magical Eye series.
