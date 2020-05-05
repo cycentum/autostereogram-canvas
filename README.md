@@ -2,9 +2,12 @@
 
 A softrware for drawing an autostereogram.
 
-I developed this software ages ago (on my Windows Me, back in my highschool days). Recently I accidentally found the old source codes and the compiled binary and, surprizingly, it still works on Windows 10! So I decided to make them public. No changes are made from the original version developed more than 10 years ago.
+I developed this software ages ago (on my Windows Me, back in my highschool days). Recently I accidentally found the old source codes and the compiled binary and, surprizingly, it still works on Windows 10! So I decided to make them public.
 
-This software only works on Windows.
+## Notes
+- No changes are made from the original version developed more than 10 years ago.
+- I confirmed that this works on my Windows 10.
+- This software only works on Windows.
 
 ## Download
 
