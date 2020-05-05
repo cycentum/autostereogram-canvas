@@ -4,8 +4,10 @@ A softrware for drawing an autostereogram.
 
 I developed this software ages ago (on my Windows Me, back in my highschool days). Recently I accidentally found the old source codes and the compiled binary and ,surprizingly, it still works on Windows 10! So I decided to make them public. No changes are made from the original version developed more than 10 years ago.
 
+This software only works on Windows.
+
 ## How to use
-- Download the binary from [releases](https://github.com/cycentum/autostereogram-canvas/releases/latest) and unzip it. No installation is required.
+- Download the binary from [releases](https://github.com/cycentum/autostereogram-canvas/releases/latest) and unzip it. No installation is required. You may encounter warnings from Windows or your web browser. If you think you can trust me, just ignore them!
 - The screen looks like this.
   - <img src="./Screen.png" width="50%" />
   - The menu buttons are in Japanese. See below for their meanings.
