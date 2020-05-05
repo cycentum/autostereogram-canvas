@@ -7,6 +7,9 @@ I developed this software ages ago (on my Windows Me, back in my highschool days
 ## How to use
 - Download the binary from * and unzip it. No installation is required.
 - The screen looks like this.
+
+<img src="./Screen.png" width="50%" />
+
   - The menu buttons are in Japanese. See below for their meanings.
   - The upper panel shows the output stereogram.
   - The lower panel is for drawing.
