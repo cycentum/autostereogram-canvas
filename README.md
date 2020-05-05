@@ -3,8 +3,8 @@
 A softrware for drawing an autostereogram.
 
 I developed this software ages ago (on my Windows Me, back in my highschool days). Recently I accidentally found the old source codes and the compiled binary and ,surprizingly, it still works on Windows 10! So I decided to make them public.
-## How to use
 
+## How to use
 - Download the binary from * and unzip it. No installation is required.
 - The screen looks like this.
   - The menu buttons are in Japanese. See below for their meanings.
@@ -26,3 +26,6 @@ I developed this software ages ago (on my Windows Me, back in my highschool days
 MIT.
 
 Copyright for Some of the background images are not owned by me.
+
+## License
+The title "マジカルアイ" ("Magical Eye" in Japanese) is taken from Japanese magazine Magical Eye series.
